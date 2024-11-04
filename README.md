@@ -45,5 +45,5 @@ Choose the destination:
 - C++
 
 ## Author
-- Muhammad Furqan Nasir (ID: 15798)
+- Muhammad Furqan Nasir 
 
