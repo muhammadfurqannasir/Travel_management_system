@@ -49,11 +49,7 @@ main()
 {
 	cout << "\t\t\t\tTHIS PROGRAM IS MADE BY" << endl;
 	cout << "\t\t\t\t=======================" << endl << endl;
-	cout << "\t\t\t1.JAWERIA                  (15787)" << endl;
-	cout << "\t\t\t2.MUHAMMAD UMAIR AYUB      (15779)" << endl;
-	cout << "\t\t\t3.MUHAMMAD FURQAN NASIR    (15798)" << endl;
-	cout << "\t\t\t3.MUHAMMAD USAMA           (15777)" << endl;
-	cout << "\t\t\t4.ANAS AHMED KHAN          (15783)" << endl << endl;
+	cout << "\t\t\t MUHAMMAD FURQAN NASIR   " << endl << endl;
 	cout << "\t\t\t========================================" << endl;
 	cout << "\t\t\tTITLE: \"TRAVEL AGENCY MANAGEMENT SYSTEM\"" << endl;
 	cout << "\t\t\t**" << endl << endl;
